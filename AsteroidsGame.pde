@@ -1,4 +1,3 @@
-//your variable declarations here
 boolean shoot = false;
 Spaceship sig;
 Star[]stars;
